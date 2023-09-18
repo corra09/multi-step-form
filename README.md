@@ -53,9 +53,4 @@ Users should be able to:
 - LocalStorage: Storing data in the localStorage and keeping it in sync with the form's state presented challenges, especially when dealing with complex data structures.
 - TypeScript Errors: I encountered TypeScript errors, including issues related to object types and incorrect data types in conditional statements. These errors required debugging and adjustments to my code.
 
-### Continued development
-- I will improve on the input validation for in 'Personal Form'.
-- I will improve the responsiveness of the project, taking into consideration more breakpoints.
 
-## Author
-- Frontend Mentor - [@Simplyvoda](https://www.frontendmentor.io/profile/Simplyvoda)
